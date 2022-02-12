@@ -361,3 +361,13 @@ nittprog.site
 tracking.lenzmx.com
 lenzmx.com
 track.bruceleadx2.com
+newrevive.detik.com
+analytics.rctiplus.com
+certify-js.alexametrics.com
+ads.pubmatic.com
+cdn.unblockia.com
+stakingsmile.com
+www.googletagmanager.com
+static.cloudflareinsights.com
+sb.scorecardresearch.com
+ps.eyeota.net
